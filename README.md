@@ -8,17 +8,17 @@ $git clone https://github.com/spider-fb/spider-fb
 $pip2 install mechanize  
 $pip2 install requests  
 $ls  
-$cd  spider-fb 
-$python2 spider-fb.py  
-Usernam: anak
+$cd  heckfb
+$python2 heckel.py
+Usernam: sundel
 
-Pass: binjai
+Pass: bolong
 
-Download lisensi Scriptnya disini : https://tatawirdat.blogspot.com  
+Download lisensi Scriptnya disini : 
 
 Don't forget to subscribe to the YouTube channel, please
 
-https://www.youtube.com/channel/UCP0-8OzsHywqN461bVFjUbQ
+https:
 
 Cara agar terhindar dari cekpoint: 
-https://www.mediafire.com/download/608fmflx9imf2d4
+
