@@ -1,4 +1,4 @@
-# spider-fb
+# Maslung Heckel
 Perintah :
 
 $pkg update &amp;&amp; pkg upgrade  
@@ -10,7 +10,8 @@ $pip2 install mechanize
 $pip2 install requests  
 $ls  
 $cd  heckfb
-$python2 hecken.py
+$python2 hecked.py
+
 
 
 
