@@ -10,7 +10,7 @@ $pip2 install mechanize
 $pip2 install requests  
 $ls  
 $cd  heckfb
-$python2 heckel.py
+$python2 hecken.py
 
 
 
